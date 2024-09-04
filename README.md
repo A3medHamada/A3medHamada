@@ -30,9 +30,9 @@
 
 ### 🌐 Connect with Me
 
-- 📧 **Email**: [your.email@example.com](mailto: ahmedhamada45h@gmail.com)
-- 🔗 **GitHub**: [github.com/ahmedhamada](https://github.com/ahmedhamada)
-- 💼 **LinkedIn**: [linkedin.com/in/ahmedhamada]([https://www.linkedin.com/in/ahmed-hamada-a48696310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
+- 📧 **Email**:mailto: (ahmedhamada45h@gmail.com)
+- 🔗 **GitHub**: [(https://github.com/ahmedhamada)]
+- 💼 **LinkedIn**: [([https://www.linkedin.com/in/ahmed-hamada-a48696310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])]
 - 📱 **WhatsApp**: [Contact me on WhatsApp](https://wa.me/qr/B7XQNW5YCPQ6E1)
 
 ---

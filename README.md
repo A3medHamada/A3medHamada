@@ -1,8 +1,12 @@
 <h1 align="center">Welcome to Ahmed Hamada's GitHub Profile! 👋</h1>
 
 <p align="center">
-  I'm a passionate developer with a love for creating innovative software solutions. Currently a student at [Faculty of Computer science and information technology ] and an enthusiast in competitive programming and game development.
+  <a href="https://github.com/AhmedHamada/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23576D8C&size=25&center=true&vCenter=true&width=600&height=100&lines=Ahmed+Hamada;Full-Stack+.NET+Developer;Computer+Science+Student;Tech+Enthusiast;Always+Exploring+New+Technologies">
+  </a>
 </p>
+
+
 
 ---
 

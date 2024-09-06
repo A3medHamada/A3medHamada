@@ -1,3 +1,4 @@
+
 <h1 align="center">Welcome to Ahmed Hamada's GitHub Profile! 👋</h1>
 
 <p align="center">
@@ -6,16 +7,16 @@
   </a>
 </p>
 
-
-
 ---
 
 ### 🌟 About Me
 
-- 🎓 **Education**: [Computer Science and Information Technology] -Tanta University-
+- 🎓 **Education**: [Computer Science and Information Technology] - Tanta University
 - 💻 **Languages**: C#, C++, SQL
-- 🎮 **Project Highlight**: Developed a classic game of Tic-Tac-Toe! Check it out [here](https://github.com/A3medHamada/tic-tac-toe_game.git).
-- 🌱 **Currently Learning**: Advanced C# development and SQL optimization techniques.
+- 🎮 **Project Highlight**: 
+  - Developed a classic game of Tic-Tac-Toe! Check it out [here](https://github.com/A3medHamada/tic-tac-toe_game.git).
+  - Implemented a comprehensive banking system in C++ using OOP concepts. Explore the project [here](https://github.com/A3medHamada/Bank-system).
+- 🌱 **Currently Learning**: Advanced C# development, SQL optimization techniques, Object-Oriented Programming (OOP), data structures, and algorithms.
 - 💼 **Looking for Opportunities**: I’m open to internship or job opportunities in software development.
 
 ---
@@ -30,16 +31,17 @@
 
 ### 🌐 Connect with Me
 
-- 📧 **Email**:mailto: (ahmedhamada45h@gmail.com)
-- 🔗 **GitHub**: [(https://github.com/ahmedhamada)]
-- 💼 **LinkedIn**: [([https://www.linkedin.com/in/ahmed-hamada-a48696310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])]
+- 📧 **Email**: [ahmedhamada45h@gmail.com](mailto:ahmedhamada45h@gmail.com)
+- 🔗 **GitHub**: [https://github.com/ahmedhamada](https://github.com/ahmedhamada)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/ahmed-hamada-a48696310](https://www.linkedin.com/in/ahmed-hamada-a48696310)
 - 📱 **WhatsApp**: [Contact me on WhatsApp](https://wa.me/qr/B7XQNW5YCPQ6E1)
 
 ---
 
 ### 🏆 Top Projects
 
-- 🕹️ [Tic-Tac-Toe Game]([https://github.com/A3medHamada/tic-tac-toe_game.git]): A fun and interactive implementation of the classic game with a modern twist.
+- 🕹️ [Tic-Tac-Toe Game](https://github.com/A3medHamada/tic-tac-toe_game.git): A fun and interactive implementation of the classic game with a modern twist.
+- 🏦 [Bank System Console Application](https://github.com/A3medHamada/Bank-system): A comprehensive banking system in C++ using Object-Oriented Programming (OOP) concepts like inheritance, polymorphism, encapsulation, and abstraction. The system features user management, client management, and secure transaction handling.
 
 ---
 
@@ -50,3 +52,4 @@ I love solving puzzles and competitive programming challenges in my free time!
 ---
 
 <p align="center">Thanks for visiting! Feel free to connect and explore my repositories! 😊</p>
+```
